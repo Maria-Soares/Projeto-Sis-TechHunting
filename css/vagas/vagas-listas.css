@@ -1,0 +1,54 @@
+.lista__vagas{
+   display: flex;
+   flex-wrap: wrap;
+   gap: 1em;
+}
+
+ .vagas{
+	width: 22%;
+	height: 80%;
+	padding: 4em 1em;
+	margin: 5px;
+	box-sizing: border-box;
+	text-align: center;
+	border-radius: 10px;
+	border: .1em solid #001B40;
+	box-shadow: .1em .1em #D3D3D3;
+	background-color: rgba(255, 255, 255, 0.082);
+	transition: 0.2s;
+}
+
+.vagas:hover{
+	background-color: #D3D3D3;
+	font-weight: bold;
+	font-size: 16.3px;
+}
+
+.info__nome a{
+	text-decoration: none;
+	color: black;
+}
+
+.info__nome {
+	font-size: 15px;
+	color: black;
+	text-align: center;
+	border-bottom: 1px solid #001b40c2;
+	margin-bottom: 1em;
+	padding-bottom: 1em;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.info__cargo, .numero__candidatos, .status__processo{
+	font-size: 14px;
+   color: black;
+	text-align: center;
+	margin-top: 1em;
+
+}
+
+.especificacoes, .beneficios, .info__descricao{
+	display: none;
+	
+}

@@ -1,0 +1,19 @@
+.empresa {
+	font-size: 15px;
+}
+
+.empresa:hover {
+	font-size: 16px;
+	font-weight: bold;
+	background-color: #02074610;
+	cursor: pointer;
+}
+
+
+.invisivel {
+	display: none;
+}
+
+#tabela-empresas {
+	margin-top: 1em;
+}

@@ -1,0 +1,35 @@
+/*
+	Style principal do site, todos os arquivos html contém ele com a formatação do body, header, container
+	principais e menu vertical.  
+*/
+body{
+	font-family: 'Montserrat', sans-serif;
+	min-height: 100vh;
+	background-color: #f9fbfd;
+}
+
+.container{
+	width: 80%;
+	height: 100%;
+	margin: 0 12em;
+	padding-top: 10em;
+}
+
+section h2 {
+	font-size: 2em;
+	color: #363636;
+	display: block;
+	text-align: center;
+	margin-bottom: 1em;
+	padding-bottom: 1em;
+	border-bottom: 1px solid #ccc;
+}
+
+
+
+
+
+
+
+
+

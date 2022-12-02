@@ -1,0 +1,23 @@
+.form__login{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin: 0 5px 1em 5px;
+}
+
+.form__login label{
+	padding: 1em;
+}
+
+.form__login input{
+	width: 100%;
+	border: 1px solid #483D8B;
+	border-radius: 10px;
+	padding: 10px;
+	background:#001B40;
+	font-size: 15px;
+	outline: none;
+	color: white;
+	transition: 1s all;
+}

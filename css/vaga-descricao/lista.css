@@ -1,0 +1,32 @@
+.lista__vaga {
+	width: 70%;
+	margin: 1em auto;
+	margin-top: 0;
+	border: 2px solid #696969;
+	border-radius: 0.5em;
+	padding: 3em;
+}
+
+.info__nome {
+	margin-bottom: 1em;
+	text-align: center;
+	font-size: 2em;
+	font-weight: lighter;
+	color: #363636;
+}
+
+li {
+	padding: 1em;
+	text-align: justify;
+	border-bottom: 1px solid #C0C0C0;
+}
+
+.titulo-especificacoes,
+.titulo-beneficios {
+	border: none;
+	margin: 0.5em;
+	text-align: center;
+	font-size: 2em;
+	font-weight: lighter;
+	color: #363636;
+}

@@ -1,0 +1,27 @@
+#tabela-processos {
+	margin-top: 1em;
+}
+
+.processo {
+	font-size: 15px;
+}
+
+.processo:hover {
+	font-weight: bold;
+	background-color: #02074610;
+	cursor: pointer;
+}
+
+
+.invisivel {
+	display: none;
+}
+
+.info-prazo{
+    color: rgb(2, 2, 206);
+    font-weight: bold;
+}
+
+.info-candidatos{
+    font-weight: bold;
+}

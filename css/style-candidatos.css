@@ -1,0 +1,45 @@
+/* Stlyle especifico para arquivo candidatos.html */
+
+.div{
+	margin: 0 3em;
+}
+
+#filtrar-candidatos{
+    width: 20%;
+    padding: 0.5em;
+    border-radius: 0.6em;
+    border: 2px solid #001b4028;
+    background-color: white;
+}
+
+.titulo-filtar img{
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.buscar {
+    border: none;
+    background-color: #F5F4F200;
+    cursor: pointer;
+    float: right;
+}
+
+.buscar:hover{
+    padding: 0.1em;
+}
+
+#tabela-candidatos{
+	margin-top: 1em;
+
+}
+
+.candidato{
+    font-size: 15px;
+}
+
+.candidato:hover{
+	font-size: 16px;
+	font-weight: bold;
+	background-color: #02074610;
+	cursor: pointer;
+}

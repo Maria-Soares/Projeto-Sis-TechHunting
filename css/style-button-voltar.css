@@ -1,0 +1,25 @@
+.cadastro{
+	width:70%;
+	margin-left: 8em;
+	margin-bottom: 1em;
+	text-align: left;
+}
+
+.button {
+	border: none;
+	background-color: #DDDDDD00;
+}
+
+.button:hover, .button-voltar:hover{
+	background-color: #ddddddab;
+	border-radius: 1em;
+}
+
+.button-voltar{
+	margin-left: 9em;
+	margin-bottom: 0.5em;
+	border: none;
+	background-color: #DDDDDD00;
+
+}
+

@@ -1,0 +1,25 @@
+/* Stlyle padrão para formatação das tabelas do site.*/
+
+table{
+	width: 100% auto;
+	margin-top: 5em;
+	margin-bottom : .5em;
+    table-layout: fixed;
+}
+
+td, th {
+	padding: .7em;
+	margin: 0;
+	border: 1px solid #ccc;
+	text-align: center;
+}
+
+td{
+	width: 100em;
+}
+
+th{
+	font-weight: bold;
+	text-transform: uppercase;
+	background-color: #B0C4DE;
+}

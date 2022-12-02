@@ -1,0 +1,11 @@
+#menu ul{
+	background-color: #001B40;
+	list-style: none;
+	width: 100%;
+}
+
+#menu ul li {
+	border-bottom: 1px solid #ccc;
+  	padding: 20px 20px;
+  	position: relative;
+}

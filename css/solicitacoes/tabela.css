@@ -1,0 +1,32 @@
+#tabela__solicitacoes{
+    margin-top: 1em;
+}
+
+.solicitacoes {
+    cursor: pointer;
+}
+
+.solicitacoes:hover {
+    cursor: pointer;
+    background-color: rgba(2, 6, 51, 0.103);
+}
+
+.solicitacoes td:hover{
+    font-weight: bold;
+}
+
+.info__processo:hover {
+    background-color: rgba(39, 219, 15, 0.651);
+    border: 1px solid rgba(10, 88, 0, 0.651);
+    font-weight: bold;
+}
+
+.info__prazo__atendimento{
+    color: rgb(2, 2, 206);
+    font-weight: bold;
+}
+
+.info__prazo-atendimento{
+    color: rgb(228, 11, 11);
+    font-weight: bold;
+}

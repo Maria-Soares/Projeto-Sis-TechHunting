@@ -1,0 +1,22 @@
+.div__button {
+	width: 80%;
+}
+
+.adicionar__vaga {
+	width: 15%;
+	padding: 0.6em;
+	border-radius: 0.5em;
+	color:rgb(250, 250, 250);
+	background-color: #001b40;
+	border: 1px solid #001b40;
+	font-size: 13px;
+	text-transform: uppercase;
+	transition: 0.2s;
+	cursor: pointer;
+	margin-top: 1em;
+	float: right;
+}
+
+.adicionar__vaga:hover {
+	border: 1px solid rgb(241, 177, 0);
+}

@@ -1,0 +1,17 @@
+.div-opcoes {
+    margin: 0 3em;
+    padding: 0.3em;
+ }
+ 
+ .titulo-filtar img{
+     width: 1.5em;
+     height: 1.5em;
+ }
+ 
+ #filtrar-solicitacao{
+     width: 20%;
+     padding: 0.5em;
+     border-radius: 0.6em;
+     border: 2px solid #001b4028;
+     background-color: white;
+ }

@@ -1,0 +1,20 @@
+.div-adicionar {
+	width: 93%;
+	text-align: right;
+	margin: 0.2em;
+}
+
+.button-cadastro img{
+	width: 80%;
+}
+
+.button-cadastro {
+	border: none;
+	padding: 0.2em;
+    background-color: #F5F4F200;
+    cursor: pointer;
+}
+
+.button-cadastro:hover {
+	padding: 0.1em;
+}
